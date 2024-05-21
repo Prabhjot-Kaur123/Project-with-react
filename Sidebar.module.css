@@ -1,0 +1,29 @@
+nav{
+    height: 430px;
+    width: 150px;
+    border: 1px solid grey;
+    color: grey;
+    
+}
+nav ul li{
+    list-style: none;
+    margin-left: -20px;
+    padding-top: 5px;
+   
+}
+.side{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(241, 169, 241);
+    border: 10px solid white;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 38px;
+}
+.side1{
+    height: 100px;
+    width: 150px;
+    background-color: rgb(241, 169, 241);
+    margin-top: 50px;
+}
+

@@ -1,0 +1,54 @@
+.main{
+    position: absolute;
+    margin-left: 150px;
+    margin-top: -431px;
+    border: 1px solid grey;
+    background-color: rgb(235, 222, 235);
+    height: 410px;
+    width: 500px;
+    padding: 10px;
+}
+.search{
+    height: 30px;
+    width: 400px;
+    border: 1px solid grey;
+    color: grey;
+    padding-top: 8px;
+    background-color: white;
+}
+.icon{
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+    display: inline;
+    /* border: 1px solid black; */
+}
+.engi{
+    height: 100px;
+    width: 130px;
+    
+}
+.mech{
+    height: 200px;
+    width: 130px;
+    background-image: linear-gradient(pink,rgb(149, 84, 149)
+    );
+    margin-top: 0px;
+    /* margin-top: 200px; */
+}
+.card{
+    /* border: 1px solid black; */
+    height: 250px;
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 10px;
+
+}
+.text{
+    padding: 20px;
+    height: 60px;
+    width: 100px;
+    
+}
